@@ -1,6 +1,6 @@
 # Self-Augmented Graph Neural Networks for Sequential Recommendation
 
-This is the Tensorflow implementation by <a href='https://github.com/LIU-YUXI'>@LIU-YUXI</a> for SA-GNN model proposed in this paper:
+This is the Tensorflow implementation by <a href='https://github.com/LIU-YUXI'>@LIU-YUXI</a> for SelfGNN model proposed in this paper:
 
 > **Self-Augmented Graph Neural Networks for Sequential Recommendation**  
 > Yuxi Liu, Lianghao Xia, Chao Huang\* 
