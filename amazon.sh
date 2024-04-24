@@ -1,0 +1,1 @@
+python main.py --data amazon --reg 1e-2 --lr 1e-3 --temp 0.1 --ssl_reg 1e-6 --save_path amazon --epoch 150  --batch 512 --sslNum 80 --graphNum 5  --pred_num 0 --gnn_layer 3 --test True --att_layer 4 --testSize 1000 --keepRate 0.5 --sampNum 40 --pos_length 200 
