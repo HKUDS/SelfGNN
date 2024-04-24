@@ -1,4 +1,4 @@
-# SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation
+# SelfGNN: Self-Supervised Graph Neural Networks \\ for Sequential Recommendation
 
 This is the Tensorflow implementation by <a href='https://github.com/LIU-YUXI'>@LIU-YUXI</a> for SelfGNN model proposed in this paper:
 
