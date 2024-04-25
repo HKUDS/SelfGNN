@@ -12,7 +12,7 @@ This is the Tensorflow implementation by <a href='https://github.com/LIU-YUXI'>@
 <img src="./SA-GNN-framwork.jpg" alt="SA-GNN" />
 </p>
 
-In this paper, we propose a novel framework called Self-Augmented Graph Neural Network (**SelfGNN**) for sequential recommendation. The **SelfGNN** framework encodes short-term graphs based on time intervals and utilizes Graph Neural Networks (GNNs) to learn short-term collaborative relationships. It captures long-term user and item representations at multiple granularity levels through interval fusion and instance modeling. Importantly, our personalized self-augmented learning structure enhances model robustness by mitigating noise in short-term graphs based on long-term user interests and personal stability. 
+In this paper, we propose a novel framework called Self-Supervised Graph Neural Network (**SelfGNN**) for sequential recommendation. The **SelfGNN** framework encodes short-term graphs based on time intervals and utilizes Graph Neural Networks (GNNs) to learn short-term collaborative relationships. It captures long-term user and item representations at multiple granularity levels through interval fusion and instance modeling. Importantly, our personalized self-augmented learning structure enhances model robustness by mitigating noise in short-term graphs based on long-term user interests and personal stability. 
 
 ## 📝 Environment
 
