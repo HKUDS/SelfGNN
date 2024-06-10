@@ -100,7 +100,12 @@ You need to create the `./History/` and the `./Models/` directories. The com
 If you find this work is helpful to your research, please consider citing our paper:
 
 ```bibtex
-coming soon
+@article{liu2024selfgnn,
+  title={SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation},
+  author={Liu, Yuxi and Xia, Lianghao and Huang, Chao},
+  journal={arXiv preprint arXiv:2405.20878},
+  year={2024}
+}
 ```
 
 **Thanks for your interest in our work!**
